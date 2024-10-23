@@ -8,7 +8,7 @@ Yinjiang Road 185, Xiamen, China
 
 Email: zhijin@jmu.edu.cn
 
-URL: [Google Scholar](https://scholar.google.com/citations?user=rKUpBpMAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0002-7962-2827) / [JMU](https://cec.jmu.edu.cn/info/1008/5733.htm) / [LinkedIn](https://www.linkedin.com/in/zhijinwang/) / 
+URL: [Google Scholar](https://scholar.google.com/citations?user=rKUpBpMAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0002-7962-2827) / [JMU](https://cec.jmu.edu.cn/info/1008/5733.htm) / [LinkedIn](https://www.linkedin.com/in/zhijinwang/) 
 
 ## Areas of specialization
 
