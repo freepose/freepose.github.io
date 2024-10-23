@@ -28,11 +28,12 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 ### Journal articles
 
-- Wang Z, Fournier-Viger P, Wang Y P, Fu Y. Editorial: Crosstalk between computational medicine and neuroscience in healthcare[J]. Frontiers in Neuroscience, 2023, 17. [PDF](./pdf/fnins2023-Wang (Editorial).pdf)
+1. Wang Z, Fournier-Viger P, Wang Y P, Fu Y. Editorial: Crosstalk between computational medicine and neuroscience in healthcare[J]. Frontiers in Neuroscience, 2023, 17. [PDF](./pdf/fnins2023-Wang%20%28Editorial%29.pdf)
   
-- Wang Z, Zhang P, Huang Y, Chao G, Xie X, Fu Y. Oriented Transformer for Infectious Disease Case Prediction[J]. Applied Intelligence, 2023, 53: 30097-30112. [PDF](./pdf/apin2023-Wang (ORIT).pdf)
-  
-- Wang Z, Liu X, Huang Y, Zhang P, Fu Y. A multivariate time series graph neural network for district heat load forecasting[J]. Energy, 2023, 278: 127911. [PDF](./pdf/energy2023-Wang (GAIN).pdf)
+2. Wang Z, Zhang P, Huang Y, Chao G, Xie X, Fu Y. Oriented Transformer for Infectious Disease Case Prediction[J]. Applied Intelligence, 2023, 53: 30097-30112. [PDF](./pdf/apin2023-Wang%20%28ORIT%29.pdf)
+
+3. Wang Z, Liu X, Huang Y, Zhang P, Fu Y. A multivariate time series graph neural network for district heat load forecasting[J]. Energy, 2023, 278: 127911. [PDF](./pdf/energy2023-Wang%20%28GAIN%29.pdf)
+
   
 
 ### Conference articles
