@@ -8,7 +8,7 @@ Yinjiang Road 185, Xiamen, China
 
 Email: zhijin@jmu.edu.cn
 
-URL: [Google Scholar](<[‪Zhijin Wang‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=rKUpBpMAAAAJ&hl=en)>) / [ORCID]([ORCID](https://orcid.org/0000-0002-7962-2827)) / [JMU](https://cec.jmu.edu.cn/info/1008/5733.htm) / [LinkedIn](https://www.linkedin.com/in/zhijinwang/) / 
+URL: [Google Scholar](https://scholar.google.com/citations?user=rKUpBpMAAAAJ&hl=en) / [ORCID](https://orcid.org/0000-0002-7962-2827) / [JMU](https://cec.jmu.edu.cn/info/1008/5733.htm) / [LinkedIn](https://www.linkedin.com/in/zhijinwang/) / 
 
 ## Areas of specialization
 
@@ -46,3 +46,6 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 3. 王智谨, 付永钢, 熊超, 庄良基. 一种融合气象因素和搜索指数的手足口病预测
 方法: 中国, ZL202010133038.1[P]. 2023-05-12.
+
+
+
