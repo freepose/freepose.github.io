@@ -82,7 +82,7 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 27. Wang Y, Li J, Gu J, Zhou Z, Wang Z. Artificial neural networks for infectious diarrhea prediction using meteorological factors in Shanghai (China)[J]. Applied Soft Computing, 2015, 35: 280-290. [PDF](https://doi.org/10.1016/j.asoc.2015.05.047)
 
-28. Wang Y, Gu J, Zhou Z, Wang Z. Diarrhoea outpatient visits prediction based on time series decomposition and multi-local predictor fusion[J]. Knowledge-Based Systems, 2015, 88: 12-23. [PDF](https://doi.org/10.1016/j.knosys.2015.08.013
+28. Wang Y, Gu J, Zhou Z, Wang Z. Diarrhoea outpatient visits prediction based on time series decomposition and multi-local predictor fusion[J]. Knowledge-Based Systems, 2015, 88: 12-23. [PDF](https://doi.org/10.1016/j.knosys.2015.08.013)
 
 ### Conference articles
 
