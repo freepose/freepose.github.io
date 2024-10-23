@@ -34,7 +34,7 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 3. Zhao Y, Huang Y, Wang Z, Liu X. Carbon futures price forecasting based on feature selection[J]. Engineering Applications of Artificial Intelligence, 2024, 135: 108646. [PDF](./pdf/eaai2024-Zhao%20%28Carbon%20futures%20price%29.pdf)
 
-4. Zhao Y, Huang Y, Wang Z, Liu X. A new feature selection method based on importance measures for crude oil return forecasting[J]. Neurocomputing, 2024, 581: 127470. [PDF](./pdf/neucom2024-Zhao%20%28crude%20oil%20return%20forecasting%29.pdf)
+4. Zhao Y, Huang Y, Wang Z, Liu X. A new feature selection method based on importance measures for crude oil return forecasting[J]. Neurocomputing, 2024, 581: 127470.  [PDF](./pdf/neucom2024-Zhao%20%28crude%20oil%20return%20forecasting%29.pdf) 
 
 5. Hu Y, Liu H, Wu S, Zhao Y, Wang Z, Liu X. Temporal collaborative attention for wind power forecasting[J]. Applied Energy, 2024, 357: 122502. [[PDF](./pdf/apen2024-Hu%20%28TCOAT%29.pdf)
 
@@ -102,8 +102,7 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 8. Wang Z, Yang Y, He L, Gu J. User Identification within a Shared Account: Improving IP-TV Recommender Performance[C]. in: Proceedings of the 18th East European Conference on Advances in Databases and Information Systems. Ohrid, Macedonia: Springer International Publishing, 2015: 219-233. 
 
-The [bib](./pdf/zhijinwang-github.bib) file.
-
+The [bib](./pdf/zhijinwang-github.bib) file. The source codes will be released.
 
 ### Patents
 
