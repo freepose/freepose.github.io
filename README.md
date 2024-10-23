@@ -48,7 +48,7 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 10. Wang Z, Liu X, Huang Y, Zhang P, Fu Y. A multivariate time series graph neural network for district heat load forecasting[J]. Energy, 2023, 278: 127911. [PDF](./pdf/energy2023-Wang%20%28GAIN%29.pdf)
 
-11. Huang X, Wang Z, Li C, Zhang M. A low-complexity evolutionary algorithm for wind farm layout optimization[J]. Energy Reports, 2023, 9: 5752-5761. [PDF](./pdf/)
+11. Huang X, Wang Z, Li C, Zhang M. A low-complexity evolutionary algorithm for wind farm layout optimization[J]. Energy Reports, 2023, 9: 5752-5761. 
 
 12. Xie X, Sun F, Qian J, Guo L, Zhang R, Ye X, Wang Z. Laplacian Lp norm least squares twin support vector machine[J]. Pattern Recognition, 2023, 136: 109192. [PDF](./pdf/coauthor/pr2022%20%28Laplacian%20Lp%20norm%20least%20squares%20twin%20support%20vector%20machine%29.pdf)
 
