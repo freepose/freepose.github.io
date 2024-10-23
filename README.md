@@ -122,6 +122,6 @@ The [bib](./pdf/zhijinwang-github.bib) file. The source codes will be released.
 
 8. 杨燕, 王智谨, 郝娟, 黄保荃, 陈昊, 裴逸钧. 一种基于多用户上下文识别的 IPTV节目推荐方法: 中国, ZL201310224437.9[P]. 2016-04-06. (授权).
 
-### Bio
+## Bio
 
-**ZHIJIN WANG** is an associate professor at Jimei University, Xiamen China. He received his Ph.D. degree from the Department of Computer Science and Technology, East China Normal University, Shanghai, China, in 2016. He has published over 30 research papers in refereed international conferences and journals and applied for more than 20 patents in China. His research interests include recommendation systems, time series forecasting, and artificial intelligence in health/healthcare.
+**ZHIJIN WANG** is an associate professor at Jimei University, Xiamen China. He received his Ph.D. degree from the Department of Computer Science and Technology, East China Normal University, Shanghai, China, in 2016. He has published over 30 research papers in refereed international conferences and journals and applied for over 20 patents in China. His research interests include recommendation systems, time series forecasting, and artificial intelligence in health/healthcare.
