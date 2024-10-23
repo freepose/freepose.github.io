@@ -102,6 +102,9 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 8. Wang Z, Yang Y, He L, Gu J. User Identification within a Shared Account: Improving IP-TV Recommender Performance[C]. in: Proceedings of the 18th East European Conference on Advances in Databases and Information Systems. Ohrid, Macedonia: Springer International Publishing, 2015: 219-233. 
 
+The [bib](./pdf/zhijinwang-github.bib) file.
+
+
 ### Patents
 
 1. 王智谨, 蔡兵, 陈荣鑫, 付永钢, 王宗跃. 一种训练传染病预测模型的方法和装置: 中国, ZL202011298182.7[P]. 2022-06-06. (授权).
@@ -119,4 +122,3 @@ I'm the project founder and lead programmer of the popular open-source time seri
 7. 胡琴敏, 林欣, 王智谨, 陈晨. 多媒体数据推送方法及装置: 中国, ZL201510060615.8[P]. 2019-10-01. (授权).
 
 8. 杨燕, 王智谨, 郝娟, 黄保荃, 陈昊, 裴逸钧. 一种基于多用户上下文识别的 IPTV节目推荐方法: 中国, ZL201310224437.9[P]. 2016-04-06. (授权).
-
