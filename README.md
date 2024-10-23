@@ -36,7 +36,7 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 4. Zhao Y, Huang Y, Wang Z, Liu X. A new feature selection method based on importance measures for crude oil return forecasting[J]. Neurocomputing, 2024, 581: 127470.  [PDF](./pdf/neucom2024-Zhao%20%28crude%20oil%20return%20forecasting%29.pdf) 
 
-5. Hu Y, Liu H, Wu S, Zhao Y, Wang Z, Liu X. Temporal collaborative attention for wind power forecasting[J]. Applied Energy, 2024, 357: 122502. [[PDF](./pdf/apen2024-Hu%20%28TCOAT%29.pdf)
+5. Hu Y, Liu H, Wu S, Zhao Y, Wang Z, Liu X. Temporal collaborative attention for wind power forecasting[J]. Applied Energy, 2024, 357: 122502. [PDF](./pdf/apen2024-Hu%20%28TCOAT%29.pdf)
 
 6. Su J, Yu X, Wang X, Wang Z, Chao G. Enhanced transfer learning with data augmentation[J]. Engineering Applications of Artificial Intelligence, 2024, 129: 107602. [PDF](./pdf/coauthor/eaai2024-Su%20%28Enhanced%20transfer%20learning%20with%20data%20augmentation%29.pdf)
 
