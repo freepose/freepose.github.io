@@ -104,6 +104,10 @@ I'm the project founder and lead programmer of the popular open-source time seri
 
 The [bib](./pdf/zhijinwang-github.bib) file. The source codes will be released.
 
+### Books
+
+1. 刘秀峰, & 王智谨. (2024). AI 全景探索：人工智能的未来之旅. 开源出版. https://book.scicloud.site
+
 ### Patents
 
 1. 王智谨, 蔡兵, 陈荣鑫, 付永钢, 王宗跃. 一种训练传染病预测模型的方法和装置: 中国, ZL202011298182.7[P]. 2022-06-06. (授权).
