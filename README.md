@@ -144,7 +144,7 @@ Contributions to [pyFAST](http://github.com/freepose/pyFAST) are welcome! Please
 
 1. The source codes are released at [pyFAST](http://github.com/freepose/pyFAST).
 
-2. The data sources are avaiable at [FAST](http://zenodo.org/communities/fast/) communities.
+2. The data sources are avaiable at ZENODO [FAST](http://zenodo.org/communities/fast/) communities.
 
 3. The [bib](paper/zhijinwang.bib) file. 
 
