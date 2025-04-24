@@ -120,7 +120,7 @@ Contributions to [pyFAST](http://github.com/freepose/pyFAST) are welcome! Please
 
 ### Books
 
-1. 刘秀峰, 王智谨. (2024). AI 全景探索：人工智能的未来之旅. 开源出版. [中文](book/AI全景探索-人工智能的未来之旅.pdf) | [English](book/AI%20Panorama-A%20Journey%20into%20the%20Future%20of%20Artificial%20Intelligence.pdf)
+1. 刘秀峰, 王智谨. (2024). AI 全景探索：人工智能的未来之旅. 开源出版. [中文](book/AI全景探索-人工智能的未来之旅.pdf) \| [English](book/AI%20Panorama-A%20Journey%20into%20the%20Future%20of%20Artificial%20Intelligence.pdf)
 
 ### Patents
 
