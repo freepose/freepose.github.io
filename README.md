@@ -1,10 +1,6 @@
 # Dr. Zhijin Wang
 
-College of Computer Engineering
-
-Jimei University
-
-Yinjiang Road 185, Xiamen, China
+College of Computer Engineering, Jimei University, Yinjiang Road 185, Xiamen, China
 
 Email: zhijin@jmu.edu.cn
 
@@ -32,7 +28,7 @@ URL:
 ## Software
 
 I'm the project founder and lead programmer of the popular open-source time series forecasting library [pyFAST](http://github.com/freepose/pyFAST).
-Contributions to [pyFAST](http://github.com/freepose/pyFAST) are welcome! Please submit issues or pull requests on GitHub.
+Contributions to pyFAST are welcome! Please submit [issues](https://github.com/freepose/pyFAST/issues) or pull requests on GitHub.
 
 <!-- I'm the project founder and lead programmer of [pyFAST](http://github.com/freepose/pyFAST), an open-source library for time series forecasting that:
 - Supports multivariate time series analysis
@@ -144,7 +140,7 @@ Contributions to [pyFAST](http://github.com/freepose/pyFAST) are welcome! Please
 
 1. The source codes are released at [pyFAST](http://github.com/freepose/pyFAST).
 
-2. The data sources are avaiable at ZENODO [FAST](http://zenodo.org/communities/fast/) communities.
+2. The datasets are avaiable at ZENODO [FAST](http://zenodo.org/communities/fast/) communities.
 
 3. The [bib](paper/zhijinwang.bib) file. 
 
