@@ -21,6 +21,7 @@ URL:
 
 2016.07 - Now, College of Computer Engineering, Jimei University
 
+
 ## Software
 
 I'm the project founder and lead programmer of the popular open-source **sparse** time series analysis library [pyFAST](http://github.com/freepose/pyFAST).
@@ -33,6 +34,9 @@ I'm the project founder and lead programmer of [pyFAST](http://github.com/freepo
 - Provides tools for infectious disease prediction
 - Has X+ GitHub stars and Y+ forks 
 -->
+
+[![Software Overview Figure](asset/overview.svg)](asset/overview.svg)
+
 
 ## Pulications & Talks
 
