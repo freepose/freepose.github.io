@@ -35,7 +35,7 @@ I'm the project founder and lead programmer of [pyFAST](http://github.com/freepo
 - Has X+ GitHub stars and Y+ forks 
 -->
 
-[![Software Overview Figure](asset/overview.svg)](asset/overview.svg)
+[![Software Overview Figure](asset/overview.html.svg)](asset/overview.html.svg)
 
 
 ## Pulications & Talks
